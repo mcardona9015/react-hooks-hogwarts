@@ -4,7 +4,8 @@ const hogs = [
     specialty: 'Being incredibly cute',
     greased: false,
     weight: 2.0,
-    'highest medal achieved': 'bronze'
+    'highest medal achieved': 'bronze',
+    image: '"../assets/babe.png"'
   },
   {
     name: 'Porkchop',
