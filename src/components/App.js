@@ -7,6 +7,8 @@ import hogs from "../porkers_data";
 
 function App() {
   const [filteredHogs, setFilteredHogs] = useState(hogs)
+  console.log('filteredHogs: ', filteredHogs);
+  
 
   return (
     <div className="App">
